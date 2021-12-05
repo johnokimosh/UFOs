@@ -18,19 +18,19 @@ Describe how someone might use the new webpage by walking through the process of
 - Filter by date was already functional in previous version of webpage.
 -----
 
-![](C:\Users\johno\OneDrive\Data_Bootcamp\09_AdvancedDataStorage\02_Challenge\Resources\june_stats.PNG) ![](C:\Users\johno\OneDrive\Data_Bootcamp\09_AdvancedDataStorage\02_Challenge\Resources\dec_stats.PNG)
+![](images/filter-city.png)
 - Filter by City
 -----
 
-![](C:\Users\johno\OneDrive\Data_Bootcamp\09_AdvancedDataStorage\02_Challenge\Resources\june_stats.PNG) ![](C:\Users\johno\OneDrive\Data_Bootcamp\09_AdvancedDataStorage\02_Challenge\Resources\dec_stats.PNG)
+![](images/filter-state.png)
 - Filter by State
 -----
 
-![](C:\Users\johno\OneDrive\Data_Bootcamp\09_AdvancedDataStorage\02_Challenge\Resources\june_stats.PNG) ![](C:\Users\johno\OneDrive\Data_Bootcamp\09_AdvancedDataStorage\02_Challenge\Resources\dec_stats.PNG)
+![](images/filter-country.png)
 - Filter by Country
 -----
 
-![](C:\Users\johno\OneDrive\Data_Bootcamp\09_AdvancedDataStorage\02_Challenge\Resources\june_stats.PNG) ![](C:\Users\johno\OneDrive\Data_Bootcamp\09_AdvancedDataStorage\02_Challenge\Resources\dec_stats.PNG)
+![](images/filter-shape.png)
 - Filter by Shape
 -----
 
