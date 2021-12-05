@@ -17,27 +17,27 @@ Describe how someone might use the new webpage by walking through the process of
 
 Filter by date was already functional in previous version of webpage.
 
------
+---
 
 ![](images/filter-city.png)
-Filter by City
+- Filter by City
 
------
+---
 
 ![](images/filter-state.png)
-Filter by State
+- Filter by State
 
------
+---
 
 ![](images/filter-country.png)
-Filter by Country
+- Filter by Country
 
------
+---
 
 ![](images/filter-shape.png)
-Filter by Shape
+- Filter by Shape
 
------
+---
 
 
 ## Summary
